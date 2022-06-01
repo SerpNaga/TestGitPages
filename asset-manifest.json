@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SerpNaga/TestGitPages.git/static/css/main.961b3f1d.css",
-    "main.js": "/SerpNaga/TestGitPages.git/static/js/main.48a30715.js",
-    "index.html": "/SerpNaga/TestGitPages.git/index.html",
-    "main.961b3f1d.css.map": "/SerpNaga/TestGitPages.git/static/css/main.961b3f1d.css.map",
-    "main.48a30715.js.map": "/SerpNaga/TestGitPages.git/static/js/main.48a30715.js.map"
+    "main.css": "/TestGitPages/static/css/main.961b3f1d.css",
+    "main.js": "/TestGitPages/static/js/main.48a30715.js",
+    "index.html": "/TestGitPages/index.html",
+    "main.961b3f1d.css.map": "/TestGitPages/static/css/main.961b3f1d.css.map",
+    "main.48a30715.js.map": "/TestGitPages/static/js/main.48a30715.js.map"
   },
   "entrypoints": [
     "static/css/main.961b3f1d.css",
